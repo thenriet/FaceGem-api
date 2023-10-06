@@ -1,0 +1,2 @@
+MONGO_URI = mongodb+srv://<username>:<password>@facegem0.uo4rvku.mongodb.net/?retryWrites=true&w=majority
+PORT = 8080
